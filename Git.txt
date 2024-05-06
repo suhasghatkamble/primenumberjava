@@ -1,0 +1,14 @@
+Git
+
+vim PrimeNumber.java
+javac PrimeNumber.java
+java PrimeNumber
+
+-----
+Create Repo on git 
+Copy Token
+
+```````````
+
+git 
+
